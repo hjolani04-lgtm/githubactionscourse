@@ -11,5 +11,5 @@ jobs:
 
     steps:
       - name: printa welcome message
-        run: echo "welcome to our first github actions workflow"
+        run: echo "welcomGGGGGGGGGGe to our first github actions workflow"
       
